@@ -258,5 +258,10 @@ namespace AutoMouseMover
         }
 
         #endregion
+
+        private void MovingTimeLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
